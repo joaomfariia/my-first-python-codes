@@ -1,3 +1,3 @@
-# My first mini project using Python
+# My first mini projects using Python
 
 My first python codes.
